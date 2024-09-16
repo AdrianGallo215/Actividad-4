@@ -1,0 +1,3 @@
+[submodule "ejemplo-colaborativo"]
+	path = ejemplo-colaborativo
+	url = https://github.com/AdrianGallo215/ejemplo-colaborativo.git
